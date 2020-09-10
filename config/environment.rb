@@ -2,7 +2,6 @@ require "bundler/setup"
 
 require "sinatra/activerecord"
 
-require 'ruby-graphviz'
 
 Bundler.require
 
