@@ -11,6 +11,3 @@ gem "rake"
 gem "database_cleaner"
 gem 'ruby-graphviz'
 
-group :development do
-  gem "rails-erd"
-end
