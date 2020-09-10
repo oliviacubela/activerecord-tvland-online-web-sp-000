@@ -10,4 +10,3 @@ gem "sinatra-activerecord", :require => 'active_record'
 gem "rake"
 gem "database_cleaner"
 gem 'ruby-graphviz'
-
