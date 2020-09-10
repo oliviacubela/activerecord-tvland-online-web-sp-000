@@ -24,8 +24,4 @@ namespace :db do
   task :console do
     Pry.start
   end
-
-  group :development do
-    gem "rails-erd"
-  end
 end
