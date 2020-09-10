@@ -1,6 +1,7 @@
 require_relative 'config/environment.rb'
 require "sinatra/activerecord/rake"
 require 'ruby-graphviz'
+require "rails_erd/diagram/graphviz"
 
 namespace :db do
 
